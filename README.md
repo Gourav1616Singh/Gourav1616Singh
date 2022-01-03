@@ -1,21 +1,21 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm GOURAV</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm GOURAV</h1>
 <h3 align="center">I'm a Computer Science Student from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+- 🔭 I’m currently studying in  **GRAPHIC ERA HILL UNIVERSITY,DDN**
+- 🌱 I’m currently learning  **Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🔭 I’m currently working on  **Big Data**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **gauravbhakuni1616@gmail.com**
 
-- ⚡ Hobbies- **I play pc games and loves travelling.**
+- ⚡  **I like playing  pc games and loves travelling a lot.**
 
 
 

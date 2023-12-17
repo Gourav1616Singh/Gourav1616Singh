@@ -7,10 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in  **GRAPHIC ERA HILL UNIVERSITY,DDN**
-- 🌱 I’m currently learning  **Data Structures and Algorithms.**
-
-
+- 🔭 I have completed my graduation from  **GRAPHIC ERA HILL UNIVERSITY,DDN**
+  
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **gauravbhakuni1616@gmail.com**
